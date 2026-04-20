@@ -8,6 +8,7 @@ Bienvenido a la documentación técnica de mis proyectos. Haz clic en cada senso
 * [Sensor de Temperatura y Humedad DHT11](DHT11.md)
 * [Sensor de Humedad de Suelo](HumedadSuelo.md)
 * [Sensor de Nivel de Agua](NivelAgua.md)
+* [Sensor de Lluvia](Lluvia.md)
 
 ### 💡 Iluminación y Ópticos
 * [Fotorresistencia (LDR)](LDR.md)
