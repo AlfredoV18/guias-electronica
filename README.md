@@ -25,7 +25,7 @@ Bienvenido a la documentación técnica de mis proyectos. Haz clic en cada senso
 * [Pantalla OLED](OLED.md)
 * [Módulo Relé (Control de Cargas)](rele.md)
 
-### 📺 Sonido y Vibracion
+### Sonido y Vibracion
 * [Módulo de ruido](Sonido.md)
 * [Módulo piezoelectrico](Piezoelectrico.md)
 ---
