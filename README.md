@@ -9,6 +9,9 @@ Bienvenido a la documentación técnica de mis proyectos. Haz clic en cada senso
 * [Sensor de Humedad de Suelo](HumedadSuelo.md)
 * [Sensor de Nivel de Agua](NivelAgua.md)
 * [Sensor de Lluvia](Lluvia.md)
+* [Sensor de Turbidez](Turbidez.md)
+* [Sensor de Temperatura Sumergible](TemperaturaSumergible.md)
+* [Sensor de Gases](MQ.md)
 
 ### 💡 Iluminación y Ópticos
 * [Fotorresistencia (LDR)](LDR.md)
@@ -24,6 +27,7 @@ Bienvenido a la documentación técnica de mis proyectos. Haz clic en cada senso
 ### 📺 Pantallas y Actuadores
 * [Pantalla OLED](OLED.md)
 * [Módulo Relé (Control de Cargas)](rele.md)
+* [Servomotores](servo.md)
 
 ### Sonido y Vibracion
 * [Módulo de ruido](Sonido.md)
