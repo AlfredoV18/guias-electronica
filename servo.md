@@ -3,7 +3,7 @@
 
 Este documento describe el procedimiento para la integración y conexión de los **Servomotores** con la placa de expansión (HUB).
 
-![servo](img/servo.png)
+![servo](/docs/electronica/img/servo.png)
 
 ## 1. Especificaciones
 
