@@ -50,6 +50,6 @@ La diferencia entre los distintos tipos de sensores MQ es la sensibilidad a cier
 **Nota técnica:** El sensor requiere de 2 a 5 minutos de precalentamiento; al encenderlo, es normal obtener falsas alarmas hasta que se estabilice térmicamente.
 Si se alimenta con 3.3V, la estabilización es más lenta y la sensibilidad disminuye. Las lecturas suben rápido al detectar gas, pero bajan despacio.
 
-###### En el siguiente ejemplo, utilizamos el MQ2 para detectar la presencia de gas de un encendedor. De igual forma se utiliza el MQ3 para medir gases alcoholicos a traves de un algodon, la cual es su especialidad.
+<sub><sup>En el siguiente ejemplo, utilizamos el MQ2 para detectar la presencia de gas de un encendedor. De igual forma se utiliza el MQ3 para medir gases alcoholicos a traves de un algodon, la cual es su especialidad.</sub><sup>
 
 ![MQ_FUNCION](/docs/electronica/img/MQ_FUNCION.png)
