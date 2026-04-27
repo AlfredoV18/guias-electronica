@@ -30,14 +30,10 @@ Se clasifican según su rango de movimiento, **los posicionales (180°/270°)** 
 
 ![turbidez_conexiones](/docs/electronica/img/turbidez_conexiones.png)
 
+**Ojo:** Generalmente, los cables de los servomotores terminan en un conector DuPont hembra de 3 pines. Al estar integrados en una sola pieza, se facilita su conexión directa a los pines en una misma columna de la placa de expansión, evitando errores de polaridad.
+
 5. **Enciende y Prueba:** Presiona el interruptor del *HUB* para encender la placa. La Micro:bit debe estar insertada correctamente en la ranura superior.
 
-**Recomendaciones:**
-* Lógica de Señal: La lectura es inversamente proporcional, a mayor turbidez, menor es el voltaje y el valor analógico. Calibra los umbrales en tu código según tus necesidades.
-
-* Interferencias: Factores externos como la luz ambiental pueden alterar ligeramente los valores; se recomienda medir en entornos de luz controlada.
-
-* Nivel de Agua: Mantén el líquido al menos a la altura indicada en la siguiente imagen para lecturas estables, recuerda que no es impermeable, no lo sumerjas completamente.
 
 ![turbidez_nivel](/docs/electronica/img/turbidez_nivel.png)
 
