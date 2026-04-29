@@ -24,6 +24,7 @@ Bienvenido a la documentación técnica de los módulos. Haz clic en cada enlace
 * [Sensor Ultrasónico de Distancia (SR04)](SR04.md)
 * [Detector de Objetos Infrarrojo](DetectorObjetosIR.md)
 * [Módulo Botón Táctil (Touch)](touch.md)
+* [Botón Pulsador](Boton.md)
 
 ### 🔊 Sonido y Vibración
 * [Sensor Detector de Sonido](Sonido.md)
