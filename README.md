@@ -22,9 +22,9 @@ Bienvenido a la documentación técnica de los módulos. Haz clic en cada enlace
 
 ### 📏 Presencia, Distancia y Contacto
 * [Sensor Ultrasónico de Distancia (SR04)](SR04.md)
-* [Detector de Objetos Infrarrojo](DetectorObjetosIR.md)
+* [Módulo Detector de Objetos (Infrarrojo)](DetectorObjetosIR.md)
 * [Módulo Botón Táctil (Touch)](touch.md)
-* [Botón Pulsador](Boton.md)
+* [Módulo Botón Pulsador](Pulsador.md)
 
 ### 🔊 Sonido y Vibración
 * [Sensor Detector de Sonido](Sonido.md)
@@ -34,6 +34,7 @@ Bienvenido a la documentación técnica de los módulos. Haz clic en cada enlace
 * [Pantalla OLED](OLED.md)
 * [Módulo Relé (Control de Cargas de Potencia)](rele.md)
 * [Servomotores](servo.md)
+* [Mini Bomba de Agua](BombaAgua.md)
 
 ---
 > Documentación generada para proyectos de Microelectrónica.
